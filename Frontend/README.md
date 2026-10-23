@@ -1,6 +1,6 @@
 # Pizzería Mamma Mía
 
-#Link del Deploy: (pendiente)
+**Link del Deploy:** https://pizzeria-mamma-mia-lac.vercel.app
 
 Landing page de una pizzería ficticia, hecha con React y Vite. En este hito se profundizó en React Router: la página de detalle obtiene la pizza con `useParams`, se simula una sesión de usuario con un `UserContext` (token y `logout`), el Navbar cambia según la sesión y se implementaron rutas protegidas.
 
